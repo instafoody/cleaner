@@ -16,12 +16,13 @@ A lightweight phone cleaner app for Android built with Flutter.
 
 Cleaning Ninja scans and removes:
 
-1. **App Cache**: Temporary files in app's cache directory
+1. **Manage Apps**: Helps you delete app caches and uninstall apps you don't need anymore.
 2. **App Support Files**: Temporary data in app support directory
 3. **Download Folder**: Junk files in Downloads
 4. **Thumbnail Caches**: Hidden thumbnail folders in Pictures and DCIM
 5. **Junk File Extensions**: .tmp, .log, .bak, .cache files
 6. **Empty Folders**: Unused empty directories
+7. **Optimizes Memory**: cleans out apps memory cache, removes temporary files
 
 ## Installation
 
