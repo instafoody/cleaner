@@ -4,7 +4,7 @@ A lightweight phone cleaner app for Android built with Flutter.
 
 ## Features
 
-- 🧹 Scan and delete cache files
+- 🧹 Automatically scans and delete cache files
 - 📁 Clean temporary files and junk
 - 🗑️ Remove empty folders
 - 📊 Display junk size in MB
@@ -45,11 +45,10 @@ These permissions are required to scan and clean files outside the app's private
 
 ## Usage
 
-1. Tap **"Scan Phone"** to analyze your device
-2. Wait for the scan to complete
-3. Review the amount of junk found
-4. Tap **"Clean Now"** to delete junk files
-5. Enjoy your cleaned phone!
+1. Automatically analyzes your device
+2. Review the amount of junk found
+3. Tap **"Clean Now"** to delete junk files
+4. Enjoy your cleaned phone!
 
 ## Technical Details
 
