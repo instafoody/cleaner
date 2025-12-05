@@ -1,0 +1,37 @@
+name: cleanlite_pro
+description: "A lightweight phone cleaner app for Android"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Permissions handling
+  permission_handler: ^11.0.1
+  
+  # File system access
+  path_provider: ^2.1.1
+  
+  # Number formatting
+  intl: ^0.18.1
+  
+  # Android intents for opening settings
+  android_intent_plus: ^5.1.0
+  
+  # Get installed apps information
+  installed_apps: ^2.0.0
+  
+  # Get device information
+  device_info_plus: ^12.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
